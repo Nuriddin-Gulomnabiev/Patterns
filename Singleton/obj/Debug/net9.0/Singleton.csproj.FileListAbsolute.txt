@@ -1,0 +1,15 @@
+C:\Users\S_Normahmadov\RiderProjects\Test\Singleton\bin\Debug\net9.0\Singleton.exe
+C:\Users\S_Normahmadov\RiderProjects\Test\Singleton\bin\Debug\net9.0\Singleton.deps.json
+C:\Users\S_Normahmadov\RiderProjects\Test\Singleton\bin\Debug\net9.0\Singleton.runtimeconfig.json
+C:\Users\S_Normahmadov\RiderProjects\Test\Singleton\bin\Debug\net9.0\Singleton.dll
+C:\Users\S_Normahmadov\RiderProjects\Test\Singleton\bin\Debug\net9.0\Singleton.pdb
+C:\Users\S_Normahmadov\RiderProjects\Test\Singleton\obj\Debug\net9.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S_Normahmadov\RiderProjects\Test\Singleton\obj\Debug\net9.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\S_Normahmadov\RiderProjects\Test\Singleton\obj\Debug\net9.0\Singleton.AssemblyInfo.cs
+C:\Users\S_Normahmadov\RiderProjects\Test\Singleton\obj\Debug\net9.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\S_Normahmadov\RiderProjects\Test\Singleton\obj\Debug\net9.0\Singleton.sourcelink.json
+C:\Users\S_Normahmadov\RiderProjects\Test\Singleton\obj\Debug\net9.0\Singleton.dll
+C:\Users\S_Normahmadov\RiderProjects\Test\Singleton\obj\Debug\net9.0\refint\Singleton.dll
+C:\Users\S_Normahmadov\RiderProjects\Test\Singleton\obj\Debug\net9.0\Singleton.pdb
+C:\Users\S_Normahmadov\RiderProjects\Test\Singleton\obj\Debug\net9.0\Singleton.genruntimeconfig.cache
+C:\Users\S_Normahmadov\RiderProjects\Test\Singleton\obj\Debug\net9.0\ref\Singleton.dll
