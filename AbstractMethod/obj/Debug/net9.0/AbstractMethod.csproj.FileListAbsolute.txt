@@ -1,0 +1,14 @@
+C:\Users\S_Normahmadov\RiderProjects\Test\AbstractMethod\bin\Debug\net9.0\AbstractMethod.exe
+C:\Users\S_Normahmadov\RiderProjects\Test\AbstractMethod\bin\Debug\net9.0\AbstractMethod.deps.json
+C:\Users\S_Normahmadov\RiderProjects\Test\AbstractMethod\bin\Debug\net9.0\AbstractMethod.runtimeconfig.json
+C:\Users\S_Normahmadov\RiderProjects\Test\AbstractMethod\bin\Debug\net9.0\AbstractMethod.dll
+C:\Users\S_Normahmadov\RiderProjects\Test\AbstractMethod\bin\Debug\net9.0\AbstractMethod.pdb
+C:\Users\S_Normahmadov\RiderProjects\Test\AbstractMethod\obj\Debug\net9.0\AbstractMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S_Normahmadov\RiderProjects\Test\AbstractMethod\obj\Debug\net9.0\AbstractMethod.AssemblyInfoInputs.cache
+C:\Users\S_Normahmadov\RiderProjects\Test\AbstractMethod\obj\Debug\net9.0\AbstractMethod.AssemblyInfo.cs
+C:\Users\S_Normahmadov\RiderProjects\Test\AbstractMethod\obj\Debug\net9.0\AbstractMethod.csproj.CoreCompileInputs.cache
+C:\Users\S_Normahmadov\RiderProjects\Test\AbstractMethod\obj\Debug\net9.0\AbstractMethod.dll
+C:\Users\S_Normahmadov\RiderProjects\Test\AbstractMethod\obj\Debug\net9.0\refint\AbstractMethod.dll
+C:\Users\S_Normahmadov\RiderProjects\Test\AbstractMethod\obj\Debug\net9.0\AbstractMethod.pdb
+C:\Users\S_Normahmadov\RiderProjects\Test\AbstractMethod\obj\Debug\net9.0\AbstractMethod.genruntimeconfig.cache
+C:\Users\S_Normahmadov\RiderProjects\Test\AbstractMethod\obj\Debug\net9.0\ref\AbstractMethod.dll
